@@ -19,6 +19,3 @@ SUBSCRIBER , LIKE AND SHERE
         KAMI 
 
 📺*IKLAN* *YOUTUBE KilL4Life*
-
-
-
