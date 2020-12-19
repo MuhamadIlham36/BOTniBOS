@@ -1,21 +1,19 @@
-exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
+exports.info = (id, Jenral_¹7, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
 	return `🐼 ${BotName} 🐼
   
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
 APA KABAR? SEMOGA BAIK-BAIK SAJA!
-Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi* 😁
+Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* 😁
 
-💵TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN💵
-💵GUNAKAN COMMAND !donasi untuk berdonasi💵
+
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/kntnbotwa
-🔱 *INSTAGRAM*: ${instagram}
-🔱 *YOUTUBE*: ${youtube}
-🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *AUTHOR* : KilL4Life
+🔱 *Tinggal*:Sulawesih Tengah
+🔱 *YOUTUBE*: ${https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g}
+🔱 *Sekolah*  : SMA NEGRI 1 SINDUE
+🔱 *WHATSAPP* : 085757196481
 
 🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
 
@@ -28,12 +26,11 @@ THANKS TO:
 -ALLAH SWT
 -MUHAMMAD SAW
 -AYAH & IBU
--ABDUL MUTTAQIN(FDCIABDUL)
 
 
 bot aktif selama : ${kapanbotaktif}
-JANGAN LUPA FOLLOW instagram
- ${instagram}
+JANGAN LUPA Subrek/Like Channel
+KilL4Life
 
  🐼TELEGRAM : ${telegram}`
 }
