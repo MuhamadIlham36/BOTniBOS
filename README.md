@@ -17,7 +17,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> cd jenral-17
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
