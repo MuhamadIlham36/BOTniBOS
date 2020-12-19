@@ -3,7 +3,7 @@ exports.menu = (id, Jenral_¹7, corohelp, tampilTanggal, tampilWaktu, instagram,
   
 HALO *${id.split("@s.whatsapp.net")[0]}* 
 APA KABAR? SEMOGA BAIK-BAIK SAJA!
-Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* 😁
+Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* and *!donasi* 😁
 
 
 
