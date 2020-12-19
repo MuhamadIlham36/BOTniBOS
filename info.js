@@ -10,7 +10,7 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* 😁
 
 INFO BOT! :
 🔱 *AUTHOR* : KilL4Life
-🔱 *Tinggal*:Sulawesih Tengah
+🔱 *Tinggal*: Sulawesih Tengah
 🔱 *YOUTUBE*: ${https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g}
 🔱 *Sekolah*  : SMA NEGRI 1 SINDUE
 🔱 *WHATSAPP* : 085757196481
@@ -22,10 +22,7 @@ INFO LAIN! :
 BOT INI MENGGUNAKAN SOURCE CODE YANG SAYA DAPATKAN DAN SAYA MODIFIKASI DENGAN PENAMBAHAN, PENGURANGAN, DAN PERUBAHAN BEBERAPA FITUR.
 BOT INI DIBUAT MENGGUNAKAN NODE.JS
 
-THANKS TO: 
--ALLAH SWT
--MUHAMMAD SAW
--AYAH & IBU
+
 
 
 bot aktif selama : ${kapanbotaktif}
