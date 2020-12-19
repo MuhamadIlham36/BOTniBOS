@@ -1,12 +1,11 @@
-exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
+exports.menu = (id, Jenral_¹7, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
 	return `🐼*${BotName}*🐼
   
 HALO *${id.split("@s.whatsapp.net")[0]}* 
 APA KABAR? SEMOGA BAIK-BAIK SAJA!
-Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi* 😁
+Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* 😁
 
-💵TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN💵
-💵GUNAKAN COMMAND !donasi untuk berdonasi💵
+
 
 📅*${tampilTanggal}* 🔱
 ⏰*${tampilWaktu}* 🔱
@@ -120,15 +119,14 @@ Contoh : !pasangan covad & covid
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
-FOLLOW INSTAGRAM SAYA
-${instagram}
+Subrek Like Channel KilL4Life
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
+• Youtube : KilL4Life
+• WA : 085757196481
 • Pasang Iklan? Chat Whatsapp.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
+📺 *IKLAN* : *YOUTUBE KiL4Life*
 
 🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
 🏚SEMOGA SEHAT SELALU!🏚
